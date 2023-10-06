@@ -10,5 +10,7 @@ Then runs an http server exposing Prometheus metrics at http://localhost:8080/me
 Metrics include:
 
 vpg_
+
 vm_
+
 peersite_
